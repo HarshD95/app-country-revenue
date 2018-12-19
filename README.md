@@ -4,7 +4,7 @@ This assignment uses data from an Android App, which have data from marketing ca
   Description : Important metrics are taken from Adwords like Impression, Click, Cost, Cost/Conversion with perfomance in various countries & from Adsense like Impression, Click, Est. Earning with perfomance in countries.
 
 The following descriptions of the metrics in the dataset taken https://drive.google.com/drive/folders/1on2GaqW3tI_jFosJA_1bH_MCg4XJJ_Ao:
-  /nImpression: ads served impressions of your app.
+  Impression: ads served impressions of your app.
   Click: ads clicked of your app.
   Cost: how cost you gave for click
   Cost/Coversion: what is the average cost of your installs
